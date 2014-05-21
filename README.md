@@ -1,4 +1,8 @@
 Try
 ===
+## This is my first REPO!
 
-Try
+### 1. I am going to write some functions concerning the symbol "<<-"
+
+* cats' reaction
+
